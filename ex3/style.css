@@ -1,0 +1,12 @@
+table{
+  border: colapse;
+}
+th, td {
+    border-radius: 15px;
+    border: 1px solid black;
+    color: blue;
+}
+
+body {
+    background-color: grey;
+}
